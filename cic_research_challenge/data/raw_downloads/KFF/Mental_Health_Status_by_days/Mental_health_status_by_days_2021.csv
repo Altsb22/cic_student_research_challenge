@@ -1,0 +1,21 @@
+KFF - Custom State Reports,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Alabama,Alaska,Arizona,Arkansas,California,Colorado,Connecticut,Delaware,Dist. of Columbia,Florida,Georgia,Hawaii,Idaho,Illinois,Iowa,Indiana,Kansas,Kentucky,Louisiana,Maine,Maryland,Massachusetts,Michigan,Minnesota,Mississippi,Missouri,Montana,Nebraska,Nevada,New Hampshire,New Jersey,New Mexico,New York,North Carolina,North Dakota,Ohio,Oklahoma,Oregon,Pennsylvania,Rhode Island,South Carolina,South Dakota,Tennessee,Texas,Utah,Vermont,Virginia,Washington,West Virginia,Wisconsin,Wyoming
+"Adults Reporting Poor Mental Health by Number of Days per Month, 2021",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0 Days,60.40%,61.60%,61.20%,61.70%,59.00%,58.60%,62.80%,64.60%,55.00%,N/A,62.40%,66.50%,62.00%,64.50%,62.90%,60.70%,62.50%,62.00%,58.60%,63.60%,61.90%,60.90%,59.90%,61.40%,66.80%,60.10%,63.90%,63.20%,58.50%,61.40%,62.80%,61.70%,64.80%,66.40%,67.90%,59.80%,60.60%,58.40%,62.30%,62.40%,64.10%,64.10%,58.20%,61.60%,54.10%,57.60%,61.40%,55.70%,59.10%,60.50%,64.00%
+1-4 Days,11.70%,14.30%,13.60%,12.30%,15.10%,15.80%,14.90%,12.90%,18.20%,N/A,13.40%,12.80%,14.10%,13.60%,14.20%,13.70%,14.00%,11.50%,13.20%,13.40%,14.90%,14.90%,14.20%,15.60%,10.50%,13.90%,13.10%,14.40%,14.60%,15.40%,14.00%,12.20%,12.40%,11.30%,13.00%,13.60%,13.30%,14.70%,12.70%,14.20%,12.20%,14.90%,12.90%,13.60%,17.50%,17.30%,14.10%,17.00%,11.20%,15.50%,12.40%
+5-13 Days,12.10%,11.40%,11.20%,9.90%,12.20%,12.90%,10.90%,10.90%,15.10%,N/A,11.00%,10.10%,10.60%,10.50%,10.70%,11.70%,10.60%,10.40%,12.50%,9.90%,11.80%,11.70%,12.10%,11.90%,8.80%,11.20%,10.60%,10.70%,11.10%,11.40%,11.20%,11.50%,10.60%,9.70%,9.20%,12.20%,10.30%,11.50%,11.80%,11.30%,9.70%,10.40%,12.60%,11.40%,13.50%,12.30%,11.90%,13.50%,11.30%,12.80%,10.50%
+14+ Days,15.80%,12.70%,14.10%,16.10%,13.80%,12.60%,11.40%,11.70%,11.70%,N/A,13.20%,10.60%,13.30%,11.40%,12.30%,13.90%,12.90%,16.10%,15.70%,13.10%,11.40%,12.50%,13.80%,11.10%,13.90%,14.80%,12.40%,11.70%,15.90%,11.80%,12.00%,14.50%,12.30%,12.60%,9.90%,14.40%,15.80%,15.40%,13.20%,12.10%,14.00%,10.60%,16.30%,13.30%,14.90%,12.90%,12.60%,13.90%,18.40%,11.10%,13.10%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Footnotes, Notes, Sources & Definitions",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Adults Reporting Poor Mental Health by Number of Days per Month,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Footnotes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+United States: US totals exclude data from the territories.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Number of poor mental health days reported for the past 30 days. Categorical break downs were selected based on diagnostic protocol for the severity of different mental illnesses in the [DSM-IV](https://dsm.psychiatryonline.org/doi/abs/10.1176/appi.books.9780890420249.dsm-iv-tr). Data based on the Behavioral Risk Factor Surveillance System, an ongoing, state-based, random-digit-dialed telephone survey of non-institutionalized civilian adults aged 18 years and older. Information about the BRFSS is available at [http://www.cdc.gov/brfss/index.html](http://www.cdc.gov/brfss/index.html).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sources,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+KFF analysis of the Centers for Disease Control and Prevention (CDC)'s 2013-2023 Behavioral Risk Factor Surveillance System (BRFSS).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Definitions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"*N/A*: Data not available. US Virgin Islands is only included in BRFSS in 2016 and 2023. Due to limited data, New Jersey was not included in the 2019 BRFSS aggregated data set. Florida was unable to collect BRFSS data over enough months to meet the minimum requirements for inclusion in 2021, and Kentucky and Pennsylvania did not meet minimum requirements for inclusion in 2023.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
