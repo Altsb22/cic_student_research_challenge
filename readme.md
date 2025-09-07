@@ -14,7 +14,7 @@ A Longitudinal, Data-Driven Story (2020–2023)"*
 It integrates public datasets (KFF, CDC, Google Dataset Publishing Language) and applies OLS and LASSO regression  
 to examine the relationship between economic strain, mental health distress, and COVID-19 vaccination coverage. 
 
-Repository structure is delineated in File_Guide.pdf
+Repository structure is delineated in File_Guide.pdf.
 
 # Mental Health, Economic Strain, and Vaccine Uptake During COVID-19:
 ## A Longitudinal, Data-Driven Story (2020–2023)
